@@ -1,0 +1,18 @@
+# ---- WorkBuddy / agent scratch & metadata (not part of the deliverable) ----
+.workbuddy-ai/
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- editor ----
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---- temp ----
+*.tmp
+*.bak
+*.log

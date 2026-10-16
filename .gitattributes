@@ -1,0 +1,12 @@
+# Normalize line endings so the single-file HTML stays LF everywhere.
+* text=auto eol=lf
+
+# Explicitly mark the deliverable as HTML (for syntax highlighting on GitHub)
+*.html text linguist-document-type=HTML
+
+# Binary assets (if any are added later)
+*.png binary
+*.jpg binary
+*.gif binary
+*.woff binary
+*.woff2 binary
